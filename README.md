@@ -41,7 +41,8 @@ Step 1: You type "Amazon" in Google and click the link to the website.
 Step 2: Your browser sends a request to Amazon’s server.
 Step 3: Amazon's server responds with the website's code (HTML, CSS, JavaScript).
 Step 4: Your browser renders the code into the visually appealing and functional Amazon website you see. 
- (https://github.com/user-attachments/assets/65bd695b-e61a-4677-9909-4bdd5a425d8e) 
+ ![Screenshot 2025-01-10 005459](https://github.com/user-attachments/assets/01b8d03a-110e-4d62-9cd3-af0d21e73575)
+
 
 
 
