@@ -18,3 +18,30 @@ Yes!
 IP Address (Internet Protocol Address): A unique identifier assigned to every device connected to the internet.
 Servers have fixed (static) IP addresses to remain accessible.
 Clients typically use dynamic IP addresses that can change over time.
+
+🗓️ Day 2: Introduction to Web Development
+🌐 What is Web Development?
+Web development is the process of creating websites or web applications that run on the internet. It involves designing, building, and maintaining websites to ensure they function effectively and look great on various devices.
+
+🔄 How Does It Work?
+User Request:
+
+When we search for a website (e.g., Amazon) in a browser like Google Chrome, the browser sends a request to Amazon's server.
+Server Response:
+
+The server processes the request and responds by sending the necessary files, including:
+HTML: The structure of the web page (like the skeleton).
+CSS: The styling and design (like the clothes).
+JavaScript: The functionality and interactivity (like the brain).
+Browser Display:
+
+The browser takes the code sent by the server, processes it, and displays the website for the user to interact with.
+💡 Example: Searching for "Amazon"
+Step 1: You type "Amazon" in Google and click the link to the website.
+Step 2: Your browser sends a request to Amazon’s server.
+Step 3: Amazon's server responds with the website's code (HTML, CSS, JavaScript).
+Step 4: Your browser renders the code into the visually appealing and functional Amazon website you see. 
+![search engine](https://github.com/user-attachments/assets/1358793f-80f2-43d8-ae93-fe83c33aa0cd)
+
+
+   
