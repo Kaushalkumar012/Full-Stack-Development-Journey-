@@ -37,6 +37,7 @@ Browser Display:
 
 The browser takes the code sent by the server, processes it, and displays the website for the user to interact with.
 💡 Example: Searching for "Amazon"
+
 Step 1: You type "Amazon" in Google and click the link to the website.
 
 Step 2: Your browser sends a request to Amazon’s server.
