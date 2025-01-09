@@ -19,7 +19,7 @@ IP Address (Internet Protocol Address): A unique identifier assigned to every de
 Servers have fixed (static) IP addresses to remain accessible.
 Clients typically use dynamic IP addresses that can change over time.
 
-🗓️ Day 2: Introduction to Web Development
+# 🗓️ Day 2: Introduction to Web Development
 🌐 What is Web Development?
 Web development is the process of creating websites or web applications that run on the internet. It involves designing, building, and maintaining websites to ensure they function effectively and look great on various devices.
 
