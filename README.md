@@ -48,6 +48,20 @@ Step 4: Your browser renders the code into the visually appealing and functional
 
  ![Screenshot 2025-01-10 005459](https://github.com/user-attachments/assets/01b8d03a-110e-4d62-9cd3-af0d21e73575)
 
+ # 🗓️ Day 3: What is HTML?
+ HyperText Markup Language.
+ Which is basically for structure and formating your site.
+ # HTML TAGS
+The cpmponent used to design the structure of websites are called HTML TAGS.
+OR 
+A Container for some content or other tags.
+Example: <p> This is a donkey.</p>
+<p>= Is used for opening tag.
+</p>= Is used for closing tag.
+And the combination of opening & closing element and content is know as ELEMENT.
+<b></b> This Tags used for BOLD your Lnaguage or Content.
+
+
 
 
 
