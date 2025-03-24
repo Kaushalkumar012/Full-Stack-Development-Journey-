@@ -55,11 +55,7 @@ Step 4: Your browser renders the code into the visually appealing and functional
 The cpmponent used to design the structure of websites are called HTML TAGS.
 OR 
 A Container for some content or other tags.
-Example: <p> This is a donkey.</p>
-  <p>= Is used for opening tag.
-  </p>= Is used for closing tag.
-  And the combination of opening & closing element and content is know as ELEMENT.
-  <b></b> This Tags used for BOLD your Lnaguage or Content.
+
 
 
 
